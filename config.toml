@@ -16,7 +16,17 @@ theme = "hugo-theme-nix"
 
 [menu]
   [[menu.header]]
+      identifier = "about"
+      name = "about"
+      weight = 0
+      url = "/about"
+  [[menu.header]]
       identifier = "post"
       name = "posts"
       weight = 0
       url = "/posts"
+  [[menu.header]]
+      identifier = "achive"
+      name = "archive"
+      weight = 0
+      url = "/archive"
