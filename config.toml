@@ -1,4 +1,4 @@
-baseURL = "http://people.ku.edu/~s383u895"
+baseURL = "http://people.eecs.ku.edu/~s383u895"
 languageCode = "en-us"
 title = "Sagindyk Urazayev"
 theme = "hugo-theme-nix"
@@ -20,3 +20,8 @@ theme = "hugo-theme-nix"
       name = "posts"
       weight = 0
       url = "/posts"
+  [[menu.header]]
+      identifier = "archive"
+      name = "archive"
+      weight = 0
+      url = "/archive"
