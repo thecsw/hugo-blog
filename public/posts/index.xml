@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sagindyk Urazayev</title>
-    <link>http://people.eecs.ku.edu/~s383u895/posts/</link>
+    <link>http://people.ku.edu/~s383u895/posts/</link>
     <description>Recent content in Posts on Sagindyk Urazayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Aug 2018 16:35:43 -0500</lastBuildDate>
     
-	<atom:link href="http://people.eecs.ku.edu/~s383u895/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://people.ku.edu/~s383u895/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arch Linux Installation</title>
-      <link>http://people.eecs.ku.edu/~s383u895/posts/arch-installation/</link>
+      <link>http://people.ku.edu/~s383u895/posts/arch-installation/</link>
       <pubDate>Fri, 24 Aug 2018 16:35:43 -0500</pubDate>
       
-      <guid>http://people.eecs.ku.edu/~s383u895/posts/arch-installation/</guid>
+      <guid>http://people.ku.edu/~s383u895/posts/arch-installation/</guid>
       <description>Pre-Installation Open the Arch Linux Official Website and download the latest .ISO version of the system. Later on just take a flash drive and burn it with rufus on Windows or with any other tool on Linux.
 Installation BIOS and Flash Drive BIOS Configuration This part is quite easy. The only thing that you should do is to tell your BIOS to boot from Flash Drives instead of bootloader and other drives.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://people.eecs.ku.edu/~s383u895/posts/my-first-post/</link>
+      <link>http://people.ku.edu/~s383u895/posts/my-first-post/</link>
       <pubDate>Wed, 22 Aug 2018 16:35:43 -0500</pubDate>
       
-      <guid>http://people.eecs.ku.edu/~s383u895/posts/my-first-post/</guid>
+      <guid>http://people.ku.edu/~s383u895/posts/my-first-post/</guid>
       <description>Hello World! This is my first post on my people.ku.edu blog!</description>
     </item>
     

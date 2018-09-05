@@ -2,50 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sagindyk Urazayev</title>
-    <link>http://people.eecs.ku.edu/~s383u895/</link>
+    <link>http://people.ku.edu/~s383u895/</link>
     <description>Recent content on Sagindyk Urazayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Aug 2018 16:20:21 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 02 Sep 2018 15:21:54 -0500</lastBuildDate>
     
-	<atom:link href="http://people.eecs.ku.edu/~s383u895/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://people.ku.edu/~s383u895/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Resume</title>
+      <link>http://people.ku.edu/~s383u895/archive/resume/</link>
+      <pubDate>Sun, 02 Sep 2018 15:21:54 -0500</pubDate>
+      
+      <guid>http://people.ku.edu/~s383u895/archive/resume/</guid>
+      <description>[Address:] 1515 Engel Road TEM 502 [Phone:] +1 (785) 917--8451 [email:] &amp;lt;sagindyk.urazayev@ku.edu&amp;gt; [Github:] [\@thecsw](https://github.com/thecsw) [Website:] [people.ku.edu/\~s383u895](http://people.ku.edu/~s383u895)  Education  [Current] Undergraduate Degree in [Computer Science] at **University of Kansas**, Lawrence, KS [May] 2018 International Baccalaureate Diploma Programme at **Quantum College**, Yerevan 2 years Thesis --- &amp;quot;RSA:Encrypting, Decrypting, Hacking&amp;quot; \| Advisor: Smbat Shahinyan [Final IB Score]: 37/45 [\| Detailed List of Exams](#ib_grades) [May] 2016 High school at **Nazarbayev Intellectual School** with Physics and 4 years Mathematics concentration, Astana.</description>
+    </item>
+    
+    <item>
       <title>Approximation of the limit of Divergent Series</title>
-      <link>http://people.eecs.ku.edu/~s383u895/archive/cods/</link>
+      <link>http://people.ku.edu/~s383u895/archive/cods/</link>
       <pubDate>Sat, 25 Aug 2018 16:20:21 -0500</pubDate>
       
-      <guid>http://people.eecs.ku.edu/~s383u895/archive/cods/</guid>
-      <description>Mathematics is the science of skilful operations, which are dealing with the logic of shape, quantity and rearrangement. Mathematics is using its core principles and rules to solve problems and get a reasonable answer. In my opinion, mathematics will soon run out of interesting theories if all new theories will formulate in terms of invented concept, which appear in axioms. This exploration is about finding finite values, limits for famous divergent series and later analytically extending Euler-Riemann&amp;rsquo;s zeta function to find a limit for any divergent series that can be formed by Euler- Riemann&amp;rsquo;s zeta function.</description>
+      <guid>http://people.ku.edu/~s383u895/archive/cods/</guid>
+      <description>&amp;ldquo;Divergent series are an invention of the devil and it is shameful to base on them any demonstration whatsoever.&amp;rdquo; - @Abel &amp;ndash; N.H. Abel. 1826
+Mathematics is the science of skilful operations, which are dealing with the logic of shape, quantity and rearrangement. Mathematics is using its core principles and rules to solve problems and get a reasonable answer. In my opinion, mathematics will soon run out of interesting theories if all new theories will formulate in terms of invented concept, which appear in axioms.</description>
     </item>
     
     <item>
       <title>Arch Linux Installation</title>
-      <link>http://people.eecs.ku.edu/~s383u895/posts/arch-installation/</link>
+      <link>http://people.ku.edu/~s383u895/posts/arch-installation/</link>
       <pubDate>Fri, 24 Aug 2018 16:35:43 -0500</pubDate>
       
-      <guid>http://people.eecs.ku.edu/~s383u895/posts/arch-installation/</guid>
+      <guid>http://people.ku.edu/~s383u895/posts/arch-installation/</guid>
       <description>Pre-Installation Open the Arch Linux Official Website and download the latest .ISO version of the system. Later on just take a flash drive and burn it with rufus on Windows or with any other tool on Linux.
 Installation BIOS and Flash Drive BIOS Configuration This part is quite easy. The only thing that you should do is to tell your BIOS to boot from Flash Drives instead of bootloader and other drives.</description>
     </item>
     
     <item>
       <title>RSA: Encrypting, Decrypting, Hacking</title>
-      <link>http://people.eecs.ku.edu/~s383u895/archive/rsa/</link>
+      <link>http://people.ku.edu/~s383u895/archive/rsa/</link>
       <pubDate>Thu, 23 Aug 2018 20:41:53 -0500</pubDate>
       
-      <guid>http://people.eecs.ku.edu/~s383u895/archive/rsa/</guid>
-      <description>By starting this Extended Essay with a lovely webcomic by Randall Munroe, one can guess that the “4096-BIT RSA” sounds like it is tough to crack. However, what is ”RSA” and how does it work that even a ”MILLION-DOLLAR CLUSTER” is not enough to crack it? The research question of this Extended Essay is - “Does R A provide secure data transmission and confidential certificate signatures?”
-This Extended Essay will explore the history of RSA algorithm, the structure of the cryptographic technique, usage of it and ways to crack the algorithm.</description>
+      <guid>http://people.ku.edu/~s383u895/archive/rsa/</guid>
+      <description>Introduction First time when I heard about RSA technique, was during the ITGS class in IB course. In ITGS Course Companion[@itgs] there is a chapter about Security and Secret Key Encryptions. As an example, the author included two cases of encryption: Symmetric Key Encryption or Single Key Encryption and Asymmetric key encryption, more known as Public Key Encryption.
+During the lesson, the fact that a message can be encrypted by one key and only a second key can decrypt the message intrigued me.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://people.eecs.ku.edu/~s383u895/posts/my-first-post/</link>
+      <link>http://people.ku.edu/~s383u895/posts/my-first-post/</link>
       <pubDate>Wed, 22 Aug 2018 16:35:43 -0500</pubDate>
       
-      <guid>http://people.eecs.ku.edu/~s383u895/posts/my-first-post/</guid>
+      <guid>http://people.ku.edu/~s383u895/posts/my-first-post/</guid>
       <description>Hello World! This is my first post on my people.ku.edu blog!</description>
     </item>
     
