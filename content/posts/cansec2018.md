@@ -6,7 +6,7 @@ date: 2018-10-28T22:24:57-05:00
 This competition was the first actual pentest competition in my
 experience. And oh boy, was in fun. This document will shortly describe
 the things I did during the competition, mostly to just look at it back
-sometime later. \newpage
+sometime later.
 
 Initial scenario
 ================
@@ -52,13 +52,13 @@ how I wasted first 20 minutes.
 Connecting to wifi
 ------------------
 
-Connecting to the `Cansec2018` wifi wasn\'t bad.
+Connecting to the `Cansec2018` wifi wasn't bad.
 
 Connecting to proxy
 -------------------
 
-Connecting to the proxy was really bad. I wasn\'t sure why all my
-commands with `export http_proxy=address:port` and so on weren\'t
+Connecting to the proxy was really bad. I wasn't sure why all my
+commands with `export http_proxy=address:port` and so on weren't
 working. I did all the combinations possible: `http`, `https`, `HTTPS`,
 `HTTP`, `ftp`, `noproxy` and nothing was working. I was on the network
 without internet access. Then, it clicked. It was the crappy proxy
@@ -74,11 +74,11 @@ people. That was fun. And no one could connect to the machines that we
 needed to secure. That because of the weird obfuscated thing they had.
 If you want to `ssh` into the machines, you should first `ssh` into the
 router machine and then `ssh` to all other machines from there.
-Obviously, not only the router\'s ssh server and daemon were dead, the
-router\'s ssh config files were all messed up. So it was a chain of
+Obviously, not only the router's ssh server and daemon were dead, the
+router's ssh config files were all messed up. So it was a chain of
 actions we needed to take to actually log in. We wasted an extra hour
-figuring out why our changes to the ssh config weren\'t working. That
-happened because we were modifying the raspberry pi\'s `ssh` instead of
+figuring out why our changes to the ssh config weren't working. That
+happened because we were modifying the raspberry pi's `ssh` instead of
 the routers. We should have used `exit` to get to the router. This
 sounds super easy, but figuring out the network layout took us more than
 an hour. Maybe two.
@@ -110,8 +110,8 @@ The structure
 
 This was the worst system I have ever logged into, ever. It was my
 favorite Arch Linux but it was so slow and stripped down. Firstly, all
-the users\' passwords were updated on all boxes except mine. But I
-couldn\'t change the passwords because the root access was invalid and
+the users' passwords were updated on all boxes except mine. But I
+couldn't change the passwords because the root access was invalid and
 someone messed with our `/etc/sudoers` file, as the system yelled at me
 due to unprivileged `uid` changes that the file has suffered. Took me
 quite a while to regain root access to the system. Before getting the
@@ -159,28 +159,28 @@ machine, tailing logs and just defending the box in general.
 The lunch
 =========
 
-The organizers called a \"fire drill\". That was caused by the Red Team
+The organizers called a "fire drill". That was caused by the Red Team
 hacking the alarm system. We all went out and had a lunch with several
 speakers. The Read Team was inside of the our room and the were at our
 table, manually checking all our notes, pieces of paper, unlocked
-laptops and etc. That was wow. Gladly, our team\'s laptops were all
+laptops and etc. That was wow. Gladly, our team's laptops were all
 locked and all our docs were with us.
 
-\"The Great Fall\"
+"The Great Fall"
 ==================
 
-Everything went down. Everything. All teams\' services were down. I
+Everything went down. Everything. All teams' services were down. I
 guess white team just flushed all iptables rules with `iptables -F`. No
 one could log in and we were in the dark. Noah was trying to debug that
 with lots of `iptables` commands. We never recovered. Some teams found a
-way, we couldn\'t. Our systems were down until the end of the
+way, we couldn't. Our systems were down until the end of the
 competition.
 
 The Return
 ==========
 
 If our systems are down, the last thing we could do was the incidents
-reports. We moved all of our team\'s resources to writing the reports.
+reports. We moved all of our team's resources to writing the reports.
 That is how we won. We won by exactly 5 points. Out of 1500. **0.33%**.
 
 One of the white team members was yelling that we submitted wrong
