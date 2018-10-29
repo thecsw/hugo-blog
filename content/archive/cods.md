@@ -3,6 +3,11 @@ title: "Approximation of the limit of Divergent Series"
 date: 2018-08-25T16:20:21-05:00
 ---
 
+### Click here to open the full paper [cods.pdf](../cods.pdf)
+
+Abstract
+============
+
 "Divergent series are an invention of the devil and it is shameful to
 base on them any demonstration whatsoever." - @Abel -- N.H. Abel. 1826
 

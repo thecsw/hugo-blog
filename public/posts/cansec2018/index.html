@@ -81,7 +81,7 @@
 <p>This competition was the first actual pentest competition in my
 experience. And oh boy, was in fun. This document will shortly describe
 the things I did during the competition, mostly to just look at it back
-sometime later. \newpage</p>
+sometime later.</p>
 
 <h1 id="initial-scenario">Initial scenario</h1>
 
@@ -125,12 +125,12 @@ how I wasted first 20 minutes.</p>
 
 <h2 id="connecting-to-wifi">Connecting to wifi</h2>
 
-<p>Connecting to the <code>Cansec2018</code> wifi wasn\&rsquo;t bad.</p>
+<p>Connecting to the <code>Cansec2018</code> wifi wasn&rsquo;t bad.</p>
 
 <h2 id="connecting-to-proxy">Connecting to proxy</h2>
 
-<p>Connecting to the proxy was really bad. I wasn\&rsquo;t sure why all my
-commands with <code>export http_proxy=address:port</code> and so on weren\&rsquo;t
+<p>Connecting to the proxy was really bad. I wasn&rsquo;t sure why all my
+commands with <code>export http_proxy=address:port</code> and so on weren&rsquo;t
 working. I did all the combinations possible: <code>http</code>, <code>https</code>, <code>HTTPS</code>,
 <code>HTTP</code>, <code>ftp</code>, <code>noproxy</code> and nothing was working. I was on the network
 without internet access. Then, it clicked. It was the crappy proxy
@@ -145,11 +145,11 @@ people. That was fun. And no one could connect to the machines that we
 needed to secure. That because of the weird obfuscated thing they had.
 If you want to <code>ssh</code> into the machines, you should first <code>ssh</code> into the
 router machine and then <code>ssh</code> to all other machines from there.
-Obviously, not only the router\&rsquo;s ssh server and daemon were dead, the
-router\&rsquo;s ssh config files were all messed up. So it was a chain of
+Obviously, not only the router&rsquo;s ssh server and daemon were dead, the
+router&rsquo;s ssh config files were all messed up. So it was a chain of
 actions we needed to take to actually log in. We wasted an extra hour
-figuring out why our changes to the ssh config weren\&rsquo;t working. That
-happened because we were modifying the raspberry pi\&rsquo;s <code>ssh</code> instead of
+figuring out why our changes to the ssh config weren&rsquo;t working. That
+happened because we were modifying the raspberry pi&rsquo;s <code>ssh</code> instead of
 the routers. We should have used <code>exit</code> to get to the router. This
 sounds super easy, but figuring out the network layout took us more than
 an hour. Maybe two.</p>
@@ -177,8 +177,8 @@ passed.</p>
 
 <p>This was the worst system I have ever logged into, ever. It was my
 favorite Arch Linux but it was so slow and stripped down. Firstly, all
-the users\&rsquo; passwords were updated on all boxes except mine. But I
-couldn\&rsquo;t change the passwords because the root access was invalid and
+the users&rsquo; passwords were updated on all boxes except mine. But I
+couldn&rsquo;t change the passwords because the root access was invalid and
 someone messed with our <code>/etc/sudoers</code> file, as the system yelled at me
 due to unprivileged <code>uid</code> changes that the file has suffered. Took me
 quite a while to regain root access to the system. Before getting the
@@ -223,26 +223,26 @@ machine, tailing logs and just defending the box in general.</p>
 
 <h1 id="the-lunch">The lunch</h1>
 
-<p>The organizers called a \&ldquo;fire drill\&ldquo;. That was caused by the Red Team
+<p>The organizers called a &ldquo;fire drill&rdquo;. That was caused by the Red Team
 hacking the alarm system. We all went out and had a lunch with several
 speakers. The Read Team was inside of the our room and the were at our
 table, manually checking all our notes, pieces of paper, unlocked
-laptops and etc. That was wow. Gladly, our team\&rsquo;s laptops were all
+laptops and etc. That was wow. Gladly, our team&rsquo;s laptops were all
 locked and all our docs were with us.</p>
 
-<h1 id="the-great-fall">\&ldquo;The Great Fall\&rdquo;</h1>
+<h1 id="the-great-fall">&ldquo;The Great Fall&rdquo;</h1>
 
-<p>Everything went down. Everything. All teams\&rsquo; services were down. I
+<p>Everything went down. Everything. All teams&rsquo; services were down. I
 guess white team just flushed all iptables rules with <code>iptables -F</code>. No
 one could log in and we were in the dark. Noah was trying to debug that
 with lots of <code>iptables</code> commands. We never recovered. Some teams found a
-way, we couldn\&rsquo;t. Our systems were down until the end of the
+way, we couldn&rsquo;t. Our systems were down until the end of the
 competition.</p>
 
 <h1 id="the-return">The Return</h1>
 
 <p>If our systems are down, the last thing we could do was the incidents
-reports. We moved all of our team\&rsquo;s resources to writing the reports.
+reports. We moved all of our team&rsquo;s resources to writing the reports.
 That is how we won. We won by exactly 5 points. Out of 1500. <strong>0.33%</strong>.</p>
 
 <p>One of the white team members was yelling that we submitted wrong

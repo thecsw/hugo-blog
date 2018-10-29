@@ -3,6 +3,8 @@ title: "RSA: Encrypting, Decrypting, Hacking"
 date: 2018-08-23T20:41:53-05:00
 ---
 
+### Click here to open the full paper [rsa.pdf](rsa.pdf)
+
 Introduction
 ============
 

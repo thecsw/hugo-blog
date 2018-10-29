@@ -17,7 +17,7 @@
       <pubDate>Sun, 28 Oct 2018 22:24:57 -0500</pubDate>
       
       <guid>http://people.ku.edu/~s383u895/posts/cansec2018/</guid>
-      <description>This competition was the first actual pentest competition in my experience. And oh boy, was in fun. This document will shortly describe the things I did during the competition, mostly to just look at it back sometime later. \newpage
+      <description>This competition was the first actual pentest competition in my experience. And oh boy, was in fun. This document will shortly describe the things I did during the competition, mostly to just look at it back sometime later.
 Initial scenario We are working for the company called Asnea. More precisely, it is some kind of a military group and we serve around 10 users, who have different positions in the company and have different access levels on all physical machines.</description>
     </item>
     
@@ -37,7 +37,7 @@ Professional Skills **Computer Skills**: C, Python, emacs, git (Version Control 
       <pubDate>Sat, 25 Aug 2018 16:20:21 -0500</pubDate>
       
       <guid>http://people.ku.edu/~s383u895/archive/cods/</guid>
-      <description>&amp;ldquo;Divergent series are an invention of the devil and it is shameful to base on them any demonstration whatsoever.&amp;rdquo; - @Abel &amp;ndash; N.H. Abel. 1826
+      <description>Click here to open the full paper cods.pdf Abstract &amp;ldquo;Divergent series are an invention of the devil and it is shameful to base on them any demonstration whatsoever.&amp;rdquo; - @Abel &amp;ndash; N.H. Abel. 1826
 Mathematics is the science of skilful operations, which are dealing with the logic of shape, quantity and rearrangement. Mathematics is using its core principles and rules to solve problems and get a reasonable answer. In my opinion, mathematics will soon run out of interesting theories if all new theories will formulate in terms of invented concept, which appear in axioms.</description>
     </item>
     
@@ -57,7 +57,7 @@ Installation BIOS and Flash Drive BIOS Configuration This part is quite easy. Th
       <pubDate>Thu, 23 Aug 2018 20:41:53 -0500</pubDate>
       
       <guid>http://people.ku.edu/~s383u895/archive/rsa/</guid>
-      <description>Introduction First time when I heard about RSA technique, was during the ITGS class in IB course. In ITGS Course Companion[@itgs] there is a chapter about Security and Secret Key Encryptions. As an example, the author included two cases of encryption: Symmetric Key Encryption or Single Key Encryption and Asymmetric key encryption, more known as Public Key Encryption.
+      <description>Click here to open the full paper rsa.pdf Introduction First time when I heard about RSA technique, was during the ITGS class in IB course. In ITGS Course Companion[@itgs] there is a chapter about Security and Secret Key Encryptions. As an example, the author included two cases of encryption: Symmetric Key Encryption or Single Key Encryption and Asymmetric key encryption, more known as Public Key Encryption.
 During the lesson, the fact that a message can be encrypted by one key and only a second key can decrypt the message intrigued me.</description>
     </item>
     
