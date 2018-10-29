@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Sagindyk Urazayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Aug 2018 16:35:43 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 28 Oct 2018 22:24:57 -0500</lastBuildDate>
     
 	<atom:link href="http://people.ku.edu/~s383u895/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cansec2018</title>
+      <link>http://people.ku.edu/~s383u895/posts/cansec2018/</link>
+      <pubDate>Sun, 28 Oct 2018 22:24:57 -0500</pubDate>
+      
+      <guid>http://people.ku.edu/~s383u895/posts/cansec2018/</guid>
+      <description>This competition was the first actual pentest competition in my experience. And oh boy, was in fun. This document will shortly describe the things I did during the competition, mostly to just look at it back sometime later. \newpage
+Initial scenario We are working for the company called Asnea. More precisely, it is some kind of a military group and we serve around 10 users, who have different positions in the company and have different access levels on all physical machines.</description>
+    </item>
     
     <item>
       <title>Arch Linux Installation</title>

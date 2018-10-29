@@ -6,10 +6,20 @@
     <description>Recent content on Sagindyk Urazayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Sep 2018 15:21:54 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 28 Oct 2018 22:24:57 -0500</lastBuildDate>
     
 	<atom:link href="http://people.ku.edu/~s383u895/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cansec2018</title>
+      <link>http://people.ku.edu/~s383u895/posts/cansec2018/</link>
+      <pubDate>Sun, 28 Oct 2018 22:24:57 -0500</pubDate>
+      
+      <guid>http://people.ku.edu/~s383u895/posts/cansec2018/</guid>
+      <description>This competition was the first actual pentest competition in my experience. And oh boy, was in fun. This document will shortly describe the things I did during the competition, mostly to just look at it back sometime later. \newpage
+Initial scenario We are working for the company called Asnea. More precisely, it is some kind of a military group and we serve around 10 users, who have different positions in the company and have different access levels on all physical machines.</description>
+    </item>
     
     <item>
       <title>Resume</title>
@@ -17,7 +27,8 @@
       <pubDate>Sun, 02 Sep 2018 15:21:54 -0500</pubDate>
       
       <guid>http://people.ku.edu/~s383u895/archive/resume/</guid>
-      <description>[Address:] 1515 Engel Road TEM 502 [Phone:] +1 (785) 917--8451 [email:] &amp;lt;sagindyk.urazayev@ku.edu&amp;gt; [Github:] [\@thecsw](https://github.com/thecsw) [Website:] [people.ku.edu/\~s383u895](http://people.ku.edu/~s383u895)  Education  [Current] Undergraduate Degree in [Computer Science] at **University of Kansas**, Lawrence, KS [May] 2018 International Baccalaureate Diploma Programme at **Quantum College**, Yerevan 2 years Thesis --- &amp;quot;RSA:Encrypting, Decrypting, Hacking&amp;quot; \| Advisor: Smbat Shahinyan [Final IB Score]: 37/45 [\| Detailed List of Exams](#ib_grades) [May] 2016 High school at **Nazarbayev Intellectual School** with Physics and 4 years Mathematics concentration, Astana.</description>
+      <description>Click here to open the full paper resume.pdf [Address:] 1515 Engel Road TEM 502 Phone: 917&amp;ndash;8451 [email:] sagindyk.urazayev@ku.edu [Github:] \@thecsw [Website:] people.ku.edu/~s383u895 [LinkedIn:] []()
+Professional Skills **Computer Skills**: C, Python, emacs, git (Version Control System), [Linux], LaTeX, mySQL, Docker (Service Deployment, Containerization), Microsoft Word, Microsoft PowerPoint, Microsoft Excel, PostgreSQL, markdown, Org-Mode, Adobe Photoshop, html, bash, Perl, golang (Go), Java, C++, Microsoft Access, vim **Languages**: Russian, English, Kazakh, French  Education  [Current] Undergraduate Degree in [Computer Science] at **University of Kansas**, Lawrence, KS [May] 2018 International Baccalaureate Diploma Programme at **Quantum College**, Yerevan 2 years Thesis --- &amp;quot;RSA:Encrypting, Decrypting, Hacking&amp;quot; \| Advisor: Smbat Shahinyan [Final IB Score]: 37/45  Project Management Experience [Summer 2018 --- now] [Project Leader and Core Developer], *[Meme Investor bot](https://github.</description>
     </item>
     
     <item>
