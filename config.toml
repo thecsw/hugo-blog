@@ -11,18 +11,13 @@ GnuPGFingerprint = "CCE2E27DAC465AC163013F1161BB674C628BB45B"
 About = "GCS d s:-- a--- C++ UL++ P+ L+++ E+ W++ N++ o K w O M- V- PS+ PE+ Y+ PGP+ t- 5+ X R !tv b+++ DI D+ G++ e++ h-- !r y"
 ProfilePicture = "me.png"
 Email = "thecsw@ku.edu"
-Mobile = "+1-785-917-8451"
 GithubID = "thecsw"
-TelegramID = "thecsw"
+LinkedInID = "thecsw"
+CvURL = "resume.pdf"
 
 [menu]
   [[menu.header]]
-      identifier = "post"
-      name = "posts"
+      identifier = "about"
+      name = "about"
       weight = 0
-      url = "/posts"
-  [[menu.header]]
-      identifier = "archive"
-      name = "archive"
-      weight = 0
-      url = "/archive"
+      url = "/about"

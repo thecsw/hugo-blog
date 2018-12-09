@@ -3,39 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://people.ku.edu/~s383u895/posts/cansec2018/</loc>
-    <lastmod>2018-10-28T22:24:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://people.ku.edu/~s383u895/archive/resume/</loc>
-    <lastmod>2018-09-02T15:21:54-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://people.ku.edu/~s383u895/archive/cods/</loc>
-    <lastmod>2018-08-25T16:20:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://people.ku.edu/~s383u895/posts/arch-installation/</loc>
-    <lastmod>2018-08-24T16:35:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://people.ku.edu/~s383u895/archive/rsa/</loc>
-    <lastmod>2018-08-23T20:41:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://people.ku.edu/~s383u895/posts/my-first-post/</loc>
-    <lastmod>2018-08-22T16:35:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://people.ku.edu/~s383u895/archive/</loc>
-    <lastmod>2018-09-02T15:21:54-05:00</lastmod>
-    <priority>0</priority>
+    <loc>http://people.ku.edu/~s383u895/about/</loc>
   </url>
   
   <url>
@@ -44,14 +12,7 @@
   </url>
   
   <url>
-    <loc>http://people.ku.edu/~s383u895/posts/</loc>
-    <lastmod>2018-10-28T22:24:57-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://people.ku.edu/~s383u895/</loc>
-    <lastmod>2018-10-28T22:24:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   

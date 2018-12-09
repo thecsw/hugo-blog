@@ -6,68 +6,17 @@
     <description>Recent content on Sagindyk Urazayev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Oct 2018 22:24:57 -0500</lastBuildDate>
     
 	<atom:link href="http://people.ku.edu/~s383u895/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cansec2018</title>
-      <link>http://people.ku.edu/~s383u895/posts/cansec2018/</link>
-      <pubDate>Sun, 28 Oct 2018 22:24:57 -0500</pubDate>
+      <title>About</title>
+      <link>http://people.ku.edu/~s383u895/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://people.ku.edu/~s383u895/posts/cansec2018/</guid>
-      <description>This competition was the first actual pentest competition in my experience. And oh boy, was in fun. This document will shortly describe the things I did during the competition, mostly to just look at it back sometime later.
-Initial scenario We are working for the company called Asnea. More precisely, it is some kind of a military group and we serve around 10 users, who have different positions in the company and have different access levels on all physical machines.</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>http://people.ku.edu/~s383u895/archive/resume/</link>
-      <pubDate>Sun, 02 Sep 2018 15:21:54 -0500</pubDate>
-      
-      <guid>http://people.ku.edu/~s383u895/archive/resume/</guid>
-      <description>Click here to open the full paper resume.pdf [Address:] 1515 Engel Road TEM 502 Phone: 917&amp;ndash;8451 [email:] sagindyk.urazayev@ku.edu [Github:] \@thecsw [Website:] people.ku.edu/~s383u895 [LinkedIn:] []()
-Professional Skills **Computer Skills**: C, Python, emacs, git (Version Control System), [Linux], LaTeX, mySQL, Docker (Service Deployment, Containerization), Microsoft Word, Microsoft PowerPoint, Microsoft Excel, PostgreSQL, markdown, Org-Mode, Adobe Photoshop, html, bash, Perl, golang (Go), Java, C++, Microsoft Access, vim **Languages**: Russian, English, Kazakh, French  Education  [Current] Undergraduate Degree in [Computer Science] at **University of Kansas**, Lawrence, KS [May] 2018 International Baccalaureate Diploma Programme at **Quantum College**, Yerevan 2 years Thesis --- &amp;quot;RSA:Encrypting, Decrypting, Hacking&amp;quot; \| Advisor: Smbat Shahinyan [Final IB Score]: 37/45  Project Management Experience [Summer 2018 --- now] [Project Leader and Core Developer], *[Meme Investor bot](https://github.</description>
-    </item>
-    
-    <item>
-      <title>Approximation of the limit of Divergent Series</title>
-      <link>http://people.ku.edu/~s383u895/archive/cods/</link>
-      <pubDate>Sat, 25 Aug 2018 16:20:21 -0500</pubDate>
-      
-      <guid>http://people.ku.edu/~s383u895/archive/cods/</guid>
-      <description>Click here to open the full paper cods.pdf Abstract &amp;ldquo;Divergent series are an invention of the devil and it is shameful to base on them any demonstration whatsoever.&amp;rdquo; - @Abel &amp;ndash; N.H. Abel. 1826
-Mathematics is the science of skilful operations, which are dealing with the logic of shape, quantity and rearrangement. Mathematics is using its core principles and rules to solve problems and get a reasonable answer. In my opinion, mathematics will soon run out of interesting theories if all new theories will formulate in terms of invented concept, which appear in axioms.</description>
-    </item>
-    
-    <item>
-      <title>Arch Linux Installation</title>
-      <link>http://people.ku.edu/~s383u895/posts/arch-installation/</link>
-      <pubDate>Fri, 24 Aug 2018 16:35:43 -0500</pubDate>
-      
-      <guid>http://people.ku.edu/~s383u895/posts/arch-installation/</guid>
-      <description>Pre-Installation Open the Arch Linux Official Website and download the latest .ISO version of the system. Later on just take a flash drive and burn it with rufus on Windows or with any other tool on Linux.
-Installation BIOS and Flash Drive BIOS Configuration This part is quite easy. The only thing that you should do is to tell your BIOS to boot from Flash Drives instead of bootloader and other drives.</description>
-    </item>
-    
-    <item>
-      <title>RSA: Encrypting, Decrypting, Hacking</title>
-      <link>http://people.ku.edu/~s383u895/archive/rsa/</link>
-      <pubDate>Thu, 23 Aug 2018 20:41:53 -0500</pubDate>
-      
-      <guid>http://people.ku.edu/~s383u895/archive/rsa/</guid>
-      <description>Click here to open the full paper rsa.pdf Introduction First time when I heard about RSA technique, was during the ITGS class in IB course. In ITGS Course Companion[@itgs] there is a chapter about Security and Secret Key Encryptions. As an example, the author included two cases of encryption: Symmetric Key Encryption or Single Key Encryption and Asymmetric key encryption, more known as Public Key Encryption.
-During the lesson, the fact that a message can be encrypted by one key and only a second key can decrypt the message intrigued me.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://people.ku.edu/~s383u895/posts/my-first-post/</link>
-      <pubDate>Wed, 22 Aug 2018 16:35:43 -0500</pubDate>
-      
-      <guid>http://people.ku.edu/~s383u895/posts/my-first-post/</guid>
-      <description>Hello World! This is my first post on my people.ku.edu blog!</description>
+      <guid>http://people.ku.edu/~s383u895/about/</guid>
+      <description>It just clicked in my head that I am not that kind of a person who will regularly update their website, add articles, blogs, and etc. This webpage is more of a signature of mine that has quick links to my on-line presence. Thank you.</description>
     </item>
     
   </channel>
