@@ -18,6 +18,6 @@ CvURL = "resume.pdf"
 [menu]
   [[menu.header]]
       identifier = "about"
-      name = "about"
+      name = "about.md"
       weight = 0
       url = "/about"
